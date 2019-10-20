@@ -1,4 +1,4 @@
-# Align Trex-450V2 Heli (Aluminum Chassis with Flybar)
+# Align Trex-450V2 Heli (Aluminum Chassis with Flybar) v0.0.1a
 
 * aluminum chassis
 * Align 430L motor
