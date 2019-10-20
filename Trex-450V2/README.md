@@ -20,7 +20,7 @@ select what works best for pure software / fly-by-wire flight. Stay tuned.
 
 ## There's no code here really?!?!
 
-We'll figure somethinbg out. :)
+We'll figure something out. :)
 
 ## Basic Setup
 
