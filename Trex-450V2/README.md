@@ -18,7 +18,7 @@ Newer micro-heli's come standard with flybar-less heads and 6-axis stabilization
 heads are also less complex, but the complexity is transferred to the 6-axis electronic gyro system. We might look into adding computer control later and
 select what works best for pure software / fly-by-wire flight. Stay tuned.
 
-##Basic Setup  
+## Basic Setup
 
 * aluminum chassis
 * Align 430L motor
