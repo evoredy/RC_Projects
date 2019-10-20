@@ -78,4 +78,5 @@ We'll figure something out. :)
 ## Known Issues
 ```
 	- need to add assets / pictures / initial schematics
+	- add software stabilization and code
 ```
