@@ -3,7 +3,7 @@
 What is this?
  
 The Align Trex 450 V2 is am RC helicopter in the "micro" class which was popular in the early 2000's. This version is mechanical flybar stabilized
-aling with a tail-rotor serve that is 1-axis gyro stabilised. The helicopters were notoriously difficuly to set-up for novices, required considerable
+aling with a tail-rotor serve that is 1-axis gyro stabilised. The helicopters were notoriously difficult to set-up for novices, required considerable
 transmitter configurations and considerable experience in orientations and flight control operation. Once figured out, it's like riding a bike-- one 
 can flay any RC heli with ease given nothing is set-up incorrectly from the factory.
 
