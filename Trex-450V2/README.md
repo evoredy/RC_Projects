@@ -27,53 +27,49 @@ select what works best for pure software / fly-by-wire flight. Stay tuned.
 * Futaba GT-401 SMM Gyro
 * Futaba S9650 Yaw Servo
 * Spektrum AR6000 RX (2.4Ghz)
+* Swashaplate: 120 degree
 
-Swashaplate: 120 degree
+## Servo and Gyro Connections:
+* CH2 / AIL - Left
+* CH6 / AUX - Right
+* CH3 / ELE - Rear
+* CH4 / RUD - Gyro
+* CH5 / GEA - Gyro Control
+* CH1 / THR - BEC / ESC
 
-Servos:
+## TX (Transmitter) Settings:
+* Mode: Heli
+* CCPM: On
+* Gyro Rate Switch: AIL (0 == Heading Hold / 1 == Rate Only)
+* Gryo Gain (Gear Sub-trim): (-)50
 
-CH2 / AIL - Left
-CH6 / AUX - Right
-CH3 / ELE - Rear
+## Reverse Settings:
+* AIL - Norm
+* ELE - Norm
+* RUD - Norm
+* GER - Norm
+* PIT - Reverse
+* THR - Norm
 
-CH4 / RUG - Gyro
-CH5 / GEA - Gyro Control
+## CCPM Settings:
+* CP2 - (+)60%
+* CP3 - (-)60%
+* CP6 - (-)60%
 
-CH1 / THR - BEC / ESC
+## Throttle / Collective Pitch Curve:
+* PLN - (+)53%
+* P2N - (+)65%
+* PHN - (+)100%
 
-##TX Settings:
-
-Mode: Heli
-CCPM: On
-Gyro Rate Switch: AIL (0 == Heading Hold / 1 == Rate Only)
-Gryo Gain (Gear Sub-trim): (-)50
-
-Reverse:
-AIL - Norm
-ELE - Norm
-RUD - Norm
-GER - Norm
-PIT - Rev
-THR - Norm
-
-CCPM:
-CP2 - (+)60%
-CP3 - (-)60%
-CP6 - (-)60%
-
-Throttle / Collective Pitch Curve:
-PLN - (+)53%
-P2N - (+)65%
-PHN - (+)100%
-
-Throttle Curve:
-TLS - 0%
-T2S - (+)52%
-THS - (+)100%
+## Throttle Curve:
+* TLS - 0%
+* T2S - (+)52%
+* THS - (+)100%
 
 ## Changelog v0.0.1a
 ```
 	- initial commit
+	- heli fly's just as stable as I remember it
 ```
 ## Known Issues
 ```
